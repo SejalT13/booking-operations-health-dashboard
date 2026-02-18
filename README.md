@@ -48,3 +48,6 @@ COUNT(CASE WHEN checkout_date IS NULL THEN booking_id END) / COUNT(booking_id)
 
 ## Live Dashboard
 https://lookerstudio.google.com/...
+## Dashboard Preview
+
+![Dashboard Preview](images/Dashboard_Preview.png)
