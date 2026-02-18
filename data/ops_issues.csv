@@ -1,0 +1,6 @@
+property_id	property_name	city	unit_type	active_status
+P01	Downtown Loft	Toronto	Studio	Active
+P02	City View Suite	Toronto	1BHK	Active
+P03	Harbor Apartment	Toronto	2BHK	Inactive
+P04	Financial District Flat	Toronto	Studio	Active
+P05	Waterfront Condo	Toronto	1BHK	Active
