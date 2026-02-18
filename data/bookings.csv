@@ -1,0 +1,551 @@
+booking_id	property_id	check_in_date	check_out_date	status	channel	nightly_rate	total_amount
+B001	P05	22-01-2025	25-01-2025	cancelled	Direct	152	0
+B002	P03	18-01-2025	20-01-2025	confirmed	Airbnb	117	234
+B003	P04	05-01-2025	06-01-2025	confirmed	Airbnb	108	108
+B004	P04	16-01-2025	19-01-2025	cancelled	Booking.com	132	0
+B005	P05	25-01-2025	27-01-2025	cancelled	Airbnb	114	0
+B006	P02	10-01-2025		cancelled	Airbnb	126	0
+B007	P01	04-01-2025	07-01-2025	confirmed	Direct	154	462
+B008	P05	03-01-2025	05-01-2025	completed	Direct	144	288
+B009	P01	03-01-2025	05-01-2025	completed	Airbnb	174	348
+B010	P03	15-01-2025	17-01-2025	cancelled	Airbnb	151	0
+B011	P02	03-01-2025	07-01-2025	completed	Airbnb	169	676
+B012	P01	25-01-2025	29-01-2025	cancelled	Booking.com	125	0
+B013	P02	09-01-2025	11-01-2025	cancelled	Airbnb	99	0
+B014	P02	25-01-2025		cancelled	Direct	95	0
+B015	P05	04-01-2025	07-01-2025	confirmed	Airbnb	140	420
+B016	P03	09-01-2025	14-01-2025	cancelled	Booking.com	158	0
+B017	P03	09-01-2025	13-01-2025	cancelled	Airbnb	119	0
+B018	P05	18-01-2025	23-01-2025	confirmed	Direct	111	555
+B019	P04	21-01-2025	24-01-2025	cancelled	Booking.com	162	0
+B020	P04	28-01-2025	31-01-2025	confirmed	Airbnb	114	342
+B021	P05	12-01-2025	13-01-2025	completed	Direct	139	139
+B022	P04	13-01-2025	14-01-2025	confirmed	Airbnb	139	139
+B023	P04	24-01-2025	27-01-2025	cancelled	Booking.com	138	0
+B024	P01	14-01-2025	17-01-2025	confirmed	Airbnb	97	291
+B025	P02	04-01-2025	08-01-2025	completed	Direct	112	448
+B026	P04	25-01-2025	29-01-2025	completed	Booking.com	141	564
+B027	P01	18-01-2025	20-01-2025	confirmed	Airbnb	97	194
+B028	P05	23-01-2025	25-01-2025	completed	Airbnb	111	222
+B029	P04	15-01-2025	19-01-2025	completed	Booking.com	117	468
+B030	P03	05-01-2025	07-01-2025	completed	Airbnb	116	232
+B031	P02	26-01-2025	29-01-2025	confirmed	Booking.com	136	408
+B032	P02	28-01-2025	02-02-2025	confirmed	Airbnb	135	675
+B033	P02	18-01-2025	23-01-2025	completed	Booking.com	170	850
+B034	P03	14-01-2025	15-01-2025	cancelled	Airbnb	107	0
+B035	P04	01-01-2025	02-01-2025	cancelled	Airbnb	131	0
+B036	P05	26-01-2025	28-01-2025	completed	Booking.com	129	258
+B037	P03	06-01-2025		completed	Airbnb	90	-90
+B038	P05	10-01-2025	13-01-2025	completed	Airbnb	163	489
+B039	P05	15-01-2025	18-01-2025	confirmed	Direct	100	300
+B040	P03	26-01-2025	27-01-2025	cancelled	Direct	160	0
+B041	P05	23-01-2025	24-01-2025	confirmed	Direct	126	126
+B042	P02	26-01-2025	29-01-2025	completed	Booking.com	111	333
+B043	P04	23-01-2025	26-01-2025	cancelled	Direct	169	0
+B044	P02	22-01-2025	25-01-2025	completed	Airbnb	155	465
+B045	P02	13-01-2025	17-01-2025	confirmed	Booking.com	116	464
+B046	P01	23-01-2025	24-01-2025	cancelled	Booking.com	180	0
+B047	P02	28-01-2025	30-01-2025	cancelled	Direct	128	0
+B048	P04	10-01-2025	11-01-2025	confirmed	Airbnb	137	137
+B049	P02	01-01-2025	05-01-2025	completed	Direct	111	444
+B050	P01	04-01-2025	09-01-2025	confirmed	Direct	92	460
+B051	P04	24-01-2025	27-01-2025	cancelled	Airbnb	157	0
+B052	P02	28-01-2025	31-01-2025	cancelled	Booking.com	143	0
+B053	P02	09-01-2025	10-01-2025	confirmed	Booking.com	135	135
+B054	P03	11-01-2025	14-01-2025	completed	Booking.com	176	528
+B055	P05	16-01-2025	18-01-2025	confirmed	Airbnb	160	320
+B056	P01	23-01-2025	27-01-2025	completed	Direct	112	448
+B057	P03	28-01-2025	01-02-2025	cancelled	Direct	98	0
+B058	P01	14-01-2025		completed	Booking.com	177	-177
+B059	P02	11-01-2025	13-01-2025	cancelled	Direct	139	0
+B060	P05	12-01-2025	14-01-2025	cancelled	Direct	179	0
+B061	P02	19-01-2025	22-01-2025	completed	Booking.com	149	447
+B062	P02	21-01-2025	25-01-2025	cancelled	Booking.com	133	0
+B063	P04	11-01-2025	14-01-2025	confirmed	Airbnb	137	411
+B064	P03	02-01-2025		completed	Airbnb	97	-97
+B065	P04	15-01-2025	20-01-2025	confirmed	Booking.com	130	650
+B066	P04	25-01-2025		completed	Airbnb	128	-128
+B067	P03	24-01-2025		confirmed	Direct	133	-133
+B068	P02	01-01-2025		confirmed	Direct	142	-142
+B069	P01	10-01-2025	14-01-2025	confirmed	Direct	148	592
+B070	P03	05-01-2025		confirmed	Booking.com	125	-125
+B071	P02	24-01-2025	25-01-2025	cancelled	Booking.com	152	0
+B072	P05	17-01-2025	21-01-2025	completed	Airbnb	173	692
+B073	P03	20-01-2025	22-01-2025	cancelled	Booking.com	122	0
+B074	P02	25-01-2025	27-01-2025	completed	Direct	123	246
+B075	P05	17-01-2025	20-01-2025	completed	Direct	122	366
+B076	P05	27-01-2025	31-01-2025	cancelled	Airbnb	148	0
+B077	P03	22-01-2025	25-01-2025	confirmed	Booking.com	146	438
+B078	P04	18-01-2025	21-01-2025	cancelled	Airbnb	118	0
+B079	P02	07-01-2025	10-01-2025	confirmed	Direct	140	420
+B080	P03	21-01-2025	24-01-2025	confirmed	Airbnb	109	327
+B081	P04	23-01-2025	25-01-2025	confirmed	Direct	100	200
+B082	P01	21-01-2025	22-01-2025	completed	Booking.com	112	112
+B083	P04	09-01-2025	14-01-2025	cancelled	Direct	171	0
+B084	P05	17-01-2025	19-01-2025	confirmed	Booking.com	145	290
+B085	P03	08-01-2025	09-01-2025	confirmed	Direct	104	104
+B086	P04	14-01-2025	15-01-2025	completed	Booking.com	142	142
+B087	P02	05-01-2025	10-01-2025	completed	Airbnb	175	875
+B088	P02	24-01-2025	28-01-2025	completed	Direct	156	624
+B089	P03	23-01-2025	27-01-2025	confirmed	Airbnb	92	368
+B090	P04	02-01-2025	07-01-2025	confirmed	Airbnb	90	450
+B091	P02	12-01-2025	15-01-2025	completed	Airbnb	106	318
+B092	P02	04-01-2025	08-01-2025	confirmed	Airbnb	164	656
+B093	P01	21-01-2025	25-01-2025	confirmed	Booking.com	147	588
+B094	P04	07-01-2025	09-01-2025	confirmed	Airbnb	134	268
+B095	P05	26-01-2025	28-01-2025	confirmed	Direct	126	252
+B096	P03	24-01-2025		completed	Direct	159	-159
+B097	P05	20-01-2025		confirmed	Direct	101	-101
+B098	P05	24-01-2025	27-01-2025	completed	Airbnb	139	417
+B099	P01	23-01-2025	25-01-2025	completed	Airbnb	166	332
+B100	P05	24-01-2025	28-01-2025	completed	Direct	112	448
+B101	P03	07-01-2025	08-01-2025	completed	Direct	166	166
+B102	P04	02-01-2025	04-01-2025	completed	Booking.com	90	180
+B103	P02	10-01-2025	11-01-2025	cancelled	Direct	164	0
+B104	P01	04-01-2025	08-01-2025	cancelled	Direct	160	0
+B105	P01	14-01-2025	18-01-2025	cancelled	Airbnb	176	0
+B106	P01	15-01-2025	20-01-2025	completed	Booking.com	166	830
+B107	P03	12-01-2025	16-01-2025	cancelled	Booking.com	121	0
+B108	P04	21-01-2025	25-01-2025	completed	Direct	99	396
+B109	P02	16-01-2025	20-01-2025	confirmed	Booking.com	167	668
+B110	P02	23-01-2025	26-01-2025	completed	Direct	141	423
+B111	P01	05-01-2025	08-01-2025	cancelled	Booking.com	99	0
+B112	P04	07-01-2025	08-01-2025	completed	Direct	140	140
+B113	P01	09-01-2025	14-01-2025	cancelled	Direct	125	0
+B114	P04	14-01-2025	17-01-2025	confirmed	Airbnb	143	429
+B115	P04	05-01-2025	09-01-2025	completed	Booking.com	127	508
+B116	P05	18-01-2025	20-01-2025	confirmed	Airbnb	139	278
+B117	P03	03-01-2025		completed	Airbnb	148	-148
+B118	P03	01-01-2025	04-01-2025	completed	Airbnb	149	447
+B119	P03	12-01-2025		confirmed	Direct	157	-157
+B120	P01	05-01-2025	07-01-2025	confirmed	Booking.com	101	202
+B121	P04	23-01-2025		confirmed	Booking.com	125	-125
+B122	P04	14-01-2025		completed	Direct	99	-99
+B123	P01	15-01-2025	16-01-2025	cancelled	Direct	118	0
+B124	P04	24-01-2025	27-01-2025	confirmed	Direct	180	540
+B125	P04	12-01-2025	15-01-2025	confirmed	Airbnb	173	519
+B126	P03	22-01-2025	23-01-2025	completed	Direct	122	122
+B127	P01	09-01-2025	10-01-2025	cancelled	Airbnb	163	0
+B128	P02	13-01-2025	18-01-2025	cancelled	Direct	104	0
+B129	P04	10-01-2025	13-01-2025	completed	Direct	94	282
+B130	P01	24-01-2025	27-01-2025	completed	Booking.com	153	459
+B131	P03	17-01-2025		cancelled	Airbnb	161	0
+B132	P04	22-01-2025	23-01-2025	cancelled	Direct	164	0
+B133	P04	15-01-2025	16-01-2025	confirmed	Airbnb	116	116
+B134	P04	21-01-2025	23-01-2025	completed	Airbnb	90	180
+B135	P03	09-01-2025	14-01-2025	completed	Booking.com	117	585
+B136	P01	18-01-2025	19-01-2025	completed	Booking.com	141	141
+B137	P03	28-01-2025	29-01-2025	confirmed	Direct	105	105
+B138	P03	14-01-2025	19-01-2025	confirmed	Direct	94	470
+B139	P05	28-01-2025	30-01-2025	confirmed	Direct	148	296
+B140	P01	04-01-2025	05-01-2025	cancelled	Booking.com	110	0
+B141	P04	09-01-2025	12-01-2025	confirmed	Booking.com	145	435
+B142	P03	17-01-2025	21-01-2025	completed	Airbnb	139	556
+B143	P03	17-01-2025		cancelled	Direct	100	0
+B144	P03	15-01-2025	17-01-2025	completed	Airbnb	144	288
+B145	P04	26-01-2025	31-01-2025	cancelled	Booking.com	150	0
+B146	P04	17-01-2025	21-01-2025	confirmed	Direct	93	372
+B147	P02	28-01-2025	29-01-2025	cancelled	Direct	129	0
+B148	P02	02-01-2025	05-01-2025	cancelled	Airbnb	155	0
+B149	P03	01-01-2025	06-01-2025	completed	Booking.com	98	490
+B150	P05	24-01-2025	25-01-2025	cancelled	Booking.com	127	0
+B151	P03	12-01-2025	17-01-2025	completed	Airbnb	93	465
+B152	P02	27-01-2025	29-01-2025	cancelled	Airbnb	140	0
+B153	P05	08-01-2025	12-01-2025	cancelled	Airbnb	92	0
+B154	P02	23-01-2025	26-01-2025	completed	Direct	96	288
+B155	P05	25-01-2025	27-01-2025	cancelled	Booking.com	152	0
+B156	P05	14-01-2025	17-01-2025	cancelled	Booking.com	140	0
+B157	P04	03-01-2025	06-01-2025	completed	Direct	164	492
+B158	P04	11-01-2025	14-01-2025	confirmed	Booking.com	169	507
+B159	P04	12-01-2025	17-01-2025	cancelled	Booking.com	123	0
+B160	P02	22-01-2025	26-01-2025	completed	Booking.com	163	652
+B161	P05	26-01-2025	28-01-2025	completed	Direct	173	346
+B162	P02	09-01-2025	12-01-2025	cancelled	Airbnb	100	0
+B163	P03	13-01-2025	15-01-2025	cancelled	Direct	134	0
+B164	P01	04-01-2025		confirmed	Booking.com	168	-168
+B165	P01	16-01-2025	21-01-2025	cancelled	Direct	114	0
+B166	P02	20-01-2025		completed	Booking.com	111	-111
+B167	P05	02-01-2025	03-01-2025	confirmed	Booking.com	120	120
+B168	P01	04-01-2025	08-01-2025	cancelled	Direct	99	0
+B169	P01	10-01-2025	12-01-2025	completed	Airbnb	152	304
+B170	P03	05-01-2025	10-01-2025	confirmed	Direct	150	750
+B171	P02	19-01-2025	23-01-2025	confirmed	Airbnb	149	596
+B172	P01	13-01-2025	16-01-2025	confirmed	Direct	136	408
+B173	P01	03-01-2025	05-01-2025	confirmed	Direct	128	256
+B174	P01	07-01-2025	10-01-2025	completed	Booking.com	119	357
+B175	P03	16-01-2025	19-01-2025	confirmed	Airbnb	113	339
+B176	P05	28-01-2025	30-01-2025	confirmed	Airbnb	178	356
+B177	P05	22-01-2025		completed	Airbnb	105	-105
+B178	P01	08-01-2025	11-01-2025	confirmed	Airbnb	131	393
+B179	P01	16-01-2025	19-01-2025	cancelled	Airbnb	140	0
+B180	P05	26-01-2025	29-01-2025	confirmed	Airbnb	161	483
+B181	P03	23-01-2025	24-01-2025	cancelled	Airbnb	125	0
+B182	P03	16-01-2025	17-01-2025	confirmed	Airbnb	105	105
+B183	P02	17-01-2025	20-01-2025	completed	Airbnb	180	540
+B184	P03	15-01-2025	19-01-2025	completed	Direct	171	684
+B185	P05	19-01-2025	22-01-2025	confirmed	Airbnb	107	321
+B186	P02	26-01-2025		cancelled	Airbnb	166	0
+B187	P05	23-01-2025	28-01-2025	confirmed	Airbnb	126	630
+B188	P03	24-01-2025	28-01-2025	confirmed	Direct	141	564
+B189	P03	06-01-2025	07-01-2025	confirmed	Direct	132	132
+B190	P04	05-01-2025	06-01-2025	completed	Booking.com	159	159
+B191	P05	21-01-2025	24-01-2025	cancelled	Airbnb	131	0
+B192	P05	15-01-2025		confirmed	Airbnb	140	-140
+B193	P04	09-01-2025	11-01-2025	completed	Airbnb	145	290
+B194	P03	18-01-2025	22-01-2025	confirmed	Airbnb	163	652
+B195	P03	17-01-2025	18-01-2025	confirmed	Airbnb	146	146
+B196	P01	10-01-2025		cancelled	Booking.com	134	0
+B197	P03	13-01-2025	18-01-2025	confirmed	Airbnb	130	650
+B198	P04	12-01-2025	17-01-2025	completed	Airbnb	122	610
+B199	P01	06-01-2025	11-01-2025	completed	Direct	174	870
+B200	P03	14-01-2025		completed	Airbnb	111	-111
+B201	P03	15-01-2025	16-01-2025	confirmed	Airbnb	170	170
+B202	P02	26-01-2025	27-01-2025	confirmed	Airbnb	121	121
+B203	P04	03-01-2025	04-01-2025	completed	Airbnb	136	136
+B204	P04	14-01-2025		completed	Airbnb	113	-113
+B205	P02	09-01-2025	11-01-2025	confirmed	Airbnb	106	212
+B206	P03	14-01-2025	15-01-2025	cancelled	Airbnb	149	0
+B207	P03	22-01-2025	25-01-2025	confirmed	Airbnb	143	429
+B208	P03	24-01-2025		cancelled	Airbnb	121	0
+B209	P05	16-01-2025	20-01-2025	cancelled	Airbnb	120	0
+B210	P03	16-01-2025	17-01-2025	confirmed	Booking.com	137	137
+B211	P05	02-01-2025	06-01-2025	completed	Direct	130	520
+B212	P05	10-01-2025	12-01-2025	confirmed	Booking.com	110	220
+B213	P02	23-01-2025	28-01-2025	completed	Direct	180	900
+B214	P02	05-01-2025	09-01-2025	cancelled	Airbnb	162	0
+B215	P03	25-01-2025	30-01-2025	completed	Direct	140	700
+B216	P05	25-01-2025	28-01-2025	cancelled	Booking.com	123	0
+B217	P03	09-01-2025	13-01-2025	cancelled	Booking.com	156	0
+B218	P04	18-01-2025	23-01-2025	completed	Booking.com	121	605
+B219	P04	26-01-2025	30-01-2025	confirmed	Booking.com	105	420
+B220	P03	23-01-2025	28-01-2025	confirmed	Airbnb	157	785
+B221	P02	10-01-2025	13-01-2025	completed	Direct	123	369
+B222	P04	02-01-2025	05-01-2025	completed	Booking.com	106	318
+B223	P05	09-01-2025	11-01-2025	confirmed	Direct	103	206
+B224	P01	07-01-2025	09-01-2025	cancelled	Airbnb	97	0
+B225	P01	23-01-2025	26-01-2025	cancelled	Booking.com	169	0
+B226	P01	01-01-2025	02-01-2025	cancelled	Direct	143	0
+B227	P04	26-01-2025	28-01-2025	confirmed	Airbnb	95	190
+B228	P03	04-01-2025		cancelled	Booking.com	180	0
+B229	P01	15-01-2025	20-01-2025	cancelled	Booking.com	172	0
+B230	P01	03-01-2025	04-01-2025	confirmed	Booking.com	123	123
+B231	P01	21-01-2025		confirmed	Airbnb	123	-123
+B232	P03	22-01-2025		cancelled	Direct	137	0
+B233	P04	26-01-2025	31-01-2025	confirmed	Direct	109	545
+B234	P05	03-01-2025	07-01-2025	confirmed	Booking.com	169	676
+B235	P01	15-01-2025		cancelled	Airbnb	123	0
+B236	P04	22-01-2025	24-01-2025	cancelled	Airbnb	117	0
+B237	P05	18-01-2025	20-01-2025	cancelled	Airbnb	150	0
+B238	P04	02-01-2025	07-01-2025	completed	Booking.com	136	680
+B239	P01	25-01-2025	30-01-2025	completed	Booking.com	160	800
+B240	P03	13-01-2025	14-01-2025	completed	Airbnb	103	103
+B241	P04	21-01-2025	26-01-2025	completed	Airbnb	156	780
+B242	P03	15-01-2025	20-01-2025	confirmed	Booking.com	159	795
+B243	P04	25-01-2025	28-01-2025	cancelled	Airbnb	157	0
+B244	P01	27-01-2025	31-01-2025	completed	Booking.com	102	408
+B245	P05	20-01-2025	24-01-2025	cancelled	Booking.com	108	0
+B246	P01	20-01-2025		cancelled	Booking.com	119	0
+B247	P03	13-01-2025	18-01-2025	cancelled	Direct	99	0
+B248	P04	22-01-2025	26-01-2025	confirmed	Airbnb	120	480
+B249	P05	01-01-2025	05-01-2025	confirmed	Airbnb	144	576
+B250	P02	27-01-2025	29-01-2025	confirmed	Airbnb	159	318
+B251	P02	07-01-2025	12-01-2025	cancelled	Airbnb	160	0
+B252	P03	19-01-2025	23-01-2025	confirmed	Direct	113	452
+B253	P02	02-01-2025	06-01-2025	completed	Airbnb	96	384
+B254	P03	12-01-2025	16-01-2025	completed	Airbnb	126	504
+B255	P05	24-01-2025	26-01-2025	completed	Booking.com	135	270
+B256	P05	26-01-2025	28-01-2025	completed	Booking.com	165	330
+B257	P01	14-01-2025	18-01-2025	confirmed	Booking.com	124	496
+B258	P05	03-01-2025	04-01-2025	completed	Direct	119	119
+B259	P01	20-01-2025	25-01-2025	confirmed	Airbnb	92	460
+B260	P03	25-01-2025	26-01-2025	confirmed	Booking.com	159	159
+B261	P05	27-01-2025	28-01-2025	cancelled	Direct	134	0
+B262	P03	10-01-2025	11-01-2025	cancelled	Booking.com	119	0
+B263	P05	03-01-2025	08-01-2025	confirmed	Airbnb	100	500
+B264	P04	19-01-2025	23-01-2025	completed	Booking.com	99	396
+B265	P05	05-01-2025		cancelled	Direct	161	0
+B266	P02	11-01-2025	15-01-2025	completed	Direct	126	504
+B267	P01	09-01-2025	10-01-2025	cancelled	Airbnb	93	0
+B268	P02	04-01-2025	05-01-2025	completed	Direct	173	173
+B269	P02	06-01-2025	11-01-2025	completed	Airbnb	129	645
+B270	P02	22-01-2025	27-01-2025	completed	Airbnb	176	880
+B271	P04	13-01-2025	16-01-2025	cancelled	Booking.com	125	0
+B272	P02	24-01-2025		cancelled	Airbnb	144	0
+B273	P01	03-01-2025	04-01-2025	completed	Booking.com	108	108
+B274	P05	24-01-2025	27-01-2025	confirmed	Booking.com	180	540
+B275	P02	22-01-2025	25-01-2025	confirmed	Booking.com	114	342
+B276	P01	10-01-2025	11-01-2025	completed	Booking.com	110	110
+B277	P05	03-01-2025	08-01-2025	cancelled	Airbnb	137	0
+B278	P05	09-01-2025	10-01-2025	cancelled	Airbnb	168	0
+B279	P05	10-01-2025		completed	Booking.com	126	-126
+B280	P03	15-01-2025		confirmed	Direct	116	-116
+B281	P03	13-01-2025	18-01-2025	cancelled	Booking.com	135	0
+B282	P01	13-01-2025	15-01-2025	cancelled	Booking.com	170	0
+B283	P05	02-01-2025	04-01-2025	completed	Direct	160	320
+B284	P01	27-01-2025	28-01-2025	completed	Direct	165	165
+B285	P02	11-01-2025	14-01-2025	completed	Booking.com	107	321
+B286	P01	09-01-2025	13-01-2025	confirmed	Direct	160	640
+B287	P04	26-01-2025	27-01-2025	cancelled	Direct	93	0
+B288	P05	18-01-2025	23-01-2025	confirmed	Direct	96	480
+B289	P01	23-01-2025	25-01-2025	completed	Direct	177	354
+B290	P02	08-01-2025	11-01-2025	cancelled	Direct	128	0
+B291	P01	25-01-2025	29-01-2025	confirmed	Direct	114	456
+B292	P03	14-01-2025	16-01-2025	confirmed	Airbnb	125	250
+B293	P05	17-01-2025	19-01-2025	confirmed	Booking.com	117	234
+B294	P02	15-01-2025		completed	Airbnb	126	-126
+B295	P04	21-01-2025	25-01-2025	cancelled	Airbnb	163	0
+B296	P02	09-01-2025	12-01-2025	completed	Booking.com	173	519
+B297	P01	16-01-2025	17-01-2025	confirmed	Direct	104	104
+B298	P05	19-01-2025	23-01-2025	completed	Booking.com	93	372
+B299	P03	16-01-2025	18-01-2025	cancelled	Airbnb	166	0
+B300	P03	11-01-2025	16-01-2025	cancelled	Direct	96	0
+B301	P01	01-01-2025	02-01-2025	completed	Airbnb	178	178
+B302	P02	21-01-2025	24-01-2025	confirmed	Booking.com	107	321
+B303	P02	16-01-2025	19-01-2025	cancelled	Airbnb	143	0
+B304	P02	17-01-2025	21-01-2025	cancelled	Direct	169	0
+B305	P03	15-01-2025		cancelled	Airbnb	110	0
+B306	P05	12-01-2025	16-01-2025	confirmed	Booking.com	171	684
+B307	P01	27-01-2025	31-01-2025	confirmed	Airbnb	123	492
+B308	P05	06-01-2025	11-01-2025	completed	Direct	94	470
+B309	P05	19-01-2025	24-01-2025	cancelled	Airbnb	121	0
+B310	P01	10-01-2025	12-01-2025	completed	Direct	157	314
+B311	P05	15-01-2025	19-01-2025	confirmed	Booking.com	163	652
+B312	P03	24-01-2025	27-01-2025	confirmed	Direct	107	321
+B313	P02	03-01-2025	08-01-2025	completed	Booking.com	172	860
+B314	P02	11-01-2025	14-01-2025	cancelled	Airbnb	165	0
+B315	P01	15-01-2025	16-01-2025	confirmed	Direct	134	134
+B316	P04	03-01-2025	08-01-2025	cancelled	Airbnb	179	0
+B317	P04	10-01-2025		cancelled	Airbnb	147	0
+B318	P05	18-01-2025	19-01-2025	confirmed	Booking.com	177	177
+B319	P01	21-01-2025	23-01-2025	cancelled	Direct	137	0
+B320	P02	14-01-2025	16-01-2025	cancelled	Direct	112	0
+B321	P04	13-01-2025	18-01-2025	completed	Direct	107	535
+B322	P03	18-01-2025	22-01-2025	completed	Airbnb	140	560
+B323	P05	10-01-2025	15-01-2025	cancelled	Direct	149	0
+B324	P03	08-01-2025	10-01-2025	confirmed	Airbnb	94	188
+B325	P05	05-01-2025	06-01-2025	completed	Direct	136	136
+B326	P05	27-01-2025	01-02-2025	cancelled	Direct	107	0
+B327	P03	14-01-2025	19-01-2025	cancelled	Airbnb	143	0
+B328	P04	08-01-2025	12-01-2025	completed	Direct	96	384
+B329	P04	07-01-2025	09-01-2025	cancelled	Direct	133	0
+B330	P05	17-01-2025	22-01-2025	confirmed	Booking.com	148	740
+B331	P04	27-01-2025	28-01-2025	completed	Airbnb	150	150
+B332	P04	15-01-2025	17-01-2025	completed	Airbnb	161	322
+B333	P02	22-01-2025	23-01-2025	cancelled	Booking.com	179	0
+B334	P03	16-01-2025		cancelled	Direct	176	0
+B335	P01	12-01-2025		completed	Direct	178	-178
+B336	P05	23-01-2025	28-01-2025	cancelled	Booking.com	144	0
+B337	P05	24-01-2025	27-01-2025	confirmed	Direct	145	435
+B338	P05	10-01-2025		completed	Airbnb	170	-170
+B339	P03	19-01-2025	21-01-2025	cancelled	Airbnb	146	0
+B340	P04	02-01-2025	07-01-2025	cancelled	Direct	142	0
+B341	P03	08-01-2025	10-01-2025	confirmed	Direct	173	346
+B342	P02	01-01-2025	06-01-2025	confirmed	Booking.com	174	870
+B343	P05	07-01-2025	08-01-2025	completed	Airbnb	150	150
+B344	P01	27-01-2025		completed	Booking.com	180	-180
+B345	P02	26-01-2025	30-01-2025	completed	Airbnb	108	432
+B346	P04	09-01-2025	14-01-2025	cancelled	Direct	178	0
+B347	P01	21-01-2025	22-01-2025	cancelled	Booking.com	109	0
+B348	P05	26-01-2025	31-01-2025	completed	Direct	152	760
+B349	P01	22-01-2025	25-01-2025	confirmed	Airbnb	96	288
+B350	P05	20-01-2025	24-01-2025	completed	Booking.com	124	496
+B351	P01	26-01-2025	28-01-2025	confirmed	Direct	173	346
+B352	P03	21-01-2025	24-01-2025	cancelled	Airbnb	147	0
+B353	P04	16-01-2025	17-01-2025	confirmed	Booking.com	96	96
+B354	P01	04-01-2025	07-01-2025	cancelled	Airbnb	152	0
+B355	P05	15-01-2025	18-01-2025	cancelled	Direct	175	0
+B356	P05	07-01-2025	12-01-2025	confirmed	Booking.com	105	525
+B357	P03	20-01-2025		cancelled	Direct	130	0
+B358	P04	18-01-2025	22-01-2025	confirmed	Booking.com	105	420
+B359	P05	24-01-2025	25-01-2025	confirmed	Booking.com	154	154
+B360	P01	22-01-2025	24-01-2025	cancelled	Booking.com	140	0
+B361	P04	01-01-2025	02-01-2025	completed	Booking.com	158	158
+B362	P04	03-01-2025	07-01-2025	confirmed	Airbnb	172	688
+B363	P02	04-01-2025	05-01-2025	completed	Direct	119	119
+B364	P01	25-01-2025	28-01-2025	completed	Booking.com	173	519
+B365	P02	22-01-2025	27-01-2025	completed	Booking.com	95	475
+B366	P03	09-01-2025	10-01-2025	completed	Direct	91	91
+B367	P01	15-01-2025	20-01-2025	completed	Direct	155	775
+B368	P01	17-01-2025	20-01-2025	cancelled	Direct	144	0
+B369	P04	06-01-2025		cancelled	Direct	120	0
+B370	P01	05-01-2025	09-01-2025	completed	Direct	114	456
+B371	P01	24-01-2025	25-01-2025	cancelled	Direct	153	0
+B372	P05	28-01-2025	29-01-2025	cancelled	Airbnb	171	0
+B373	P03	20-01-2025	24-01-2025	confirmed	Airbnb	129	516
+B374	P04	01-01-2025	04-01-2025	completed	Airbnb	146	438
+B375	P02	13-01-2025	14-01-2025	completed	Direct	94	94
+B376	P03	27-01-2025		cancelled	Direct	127	0
+B377	P03	08-01-2025	10-01-2025	confirmed	Direct	103	206
+B378	P01	18-01-2025	21-01-2025	confirmed	Booking.com	101	303
+B379	P03	05-01-2025	09-01-2025	confirmed	Airbnb	155	620
+B380	P03	20-01-2025	24-01-2025	confirmed	Airbnb	105	420
+B381	P01	10-01-2025	15-01-2025	completed	Airbnb	153	765
+B382	P03	07-01-2025	08-01-2025	cancelled	Booking.com	173	0
+B383	P04	15-01-2025	19-01-2025	completed	Booking.com	151	604
+B384	P03	12-01-2025	13-01-2025	completed	Direct	97	97
+B385	P05	26-01-2025	28-01-2025	cancelled	Booking.com	98	0
+B386	P01	23-01-2025	28-01-2025	cancelled	Direct	114	0
+B387	P03	14-01-2025	19-01-2025	confirmed	Booking.com	160	800
+B388	P04	14-01-2025	15-01-2025	cancelled	Airbnb	113	0
+B389	P02	02-01-2025	05-01-2025	completed	Airbnb	165	495
+B390	P04	01-01-2025	02-01-2025	completed	Booking.com	138	138
+B391	P02	20-01-2025	21-01-2025	completed	Direct	117	117
+B392	P01	07-01-2025	08-01-2025	cancelled	Direct	98	0
+B393	P04	07-01-2025	12-01-2025	confirmed	Airbnb	130	650
+B394	P05	13-01-2025	17-01-2025	completed	Direct	146	584
+B395	P02	27-01-2025		completed	Booking.com	107	-107
+B396	P05	23-01-2025	26-01-2025	completed	Airbnb	94	282
+B397	P02	01-01-2025	04-01-2025	completed	Direct	133	399
+B398	P04	05-01-2025	06-01-2025	confirmed	Direct	100	100
+B399	P01	19-01-2025		completed	Direct	174	-174
+B400	P04	16-01-2025	17-01-2025	confirmed	Direct	167	167
+B401	P02	15-01-2025	18-01-2025	confirmed	Direct	155	465
+B402	P04	11-01-2025	12-01-2025	confirmed	Booking.com	141	141
+B403	P01	07-01-2025	08-01-2025	completed	Direct	142	142
+B404	P04	25-01-2025	30-01-2025	completed	Booking.com	111	555
+B405	P05	07-01-2025		confirmed	Booking.com	139	-139
+B406	P03	18-01-2025	22-01-2025	confirmed	Direct	110	440
+B407	P04	21-01-2025	22-01-2025	confirmed	Direct	150	150
+B408	P04	15-01-2025	16-01-2025	completed	Booking.com	91	91
+B409	P02	23-01-2025	27-01-2025	completed	Direct	148	592
+B410	P04	03-01-2025	06-01-2025	completed	Direct	176	528
+B411	P03	02-01-2025	04-01-2025	completed	Airbnb	171	342
+B412	P05	05-01-2025	10-01-2025	cancelled	Booking.com	174	0
+B413	P02	03-01-2025		completed	Airbnb	109	-109
+B414	P05	04-01-2025	09-01-2025	cancelled	Direct	172	0
+B415	P04	13-01-2025	18-01-2025	cancelled	Direct	112	0
+B416	P01	23-01-2025	26-01-2025	completed	Airbnb	113	339
+B417	P05	19-01-2025	21-01-2025	confirmed	Airbnb	134	268
+B418	P04	13-01-2025	16-01-2025	cancelled	Direct	163	0
+B419	P03	21-01-2025	25-01-2025	completed	Booking.com	92	368
+B420	P04	04-01-2025	08-01-2025	cancelled	Booking.com	97	0
+B421	P03	26-01-2025	28-01-2025	confirmed	Booking.com	123	246
+B422	P04	06-01-2025		cancelled	Airbnb	105	0
+B423	P02	07-01-2025	11-01-2025	completed	Booking.com	128	512
+B424	P01	02-01-2025	04-01-2025	completed	Direct	125	250
+B425	P03	27-01-2025	28-01-2025	confirmed	Booking.com	120	120
+B426	P03	05-01-2025	07-01-2025	cancelled	Booking.com	111	0
+B427	P02	10-01-2025	12-01-2025	completed	Airbnb	177	354
+B428	P04	07-01-2025	09-01-2025	completed	Booking.com	156	312
+B429	P01	22-01-2025	26-01-2025	confirmed	Direct	126	504
+B430	P03	25-01-2025	28-01-2025	completed	Direct	180	540
+B431	P01	15-01-2025	19-01-2025	confirmed	Airbnb	116	464
+B432	P01	14-01-2025	15-01-2025	completed	Direct	157	157
+B433	P04	04-01-2025	07-01-2025	completed	Direct	162	486
+B434	P04	27-01-2025	30-01-2025	completed	Airbnb	103	309
+B435	P02	18-01-2025	22-01-2025	confirmed	Direct	171	684
+B436	P05	18-01-2025	20-01-2025	confirmed	Airbnb	112	224
+B437	P04	19-01-2025	23-01-2025	confirmed	Direct	177	708
+B438	P05	23-01-2025	28-01-2025	completed	Airbnb	131	655
+B439	P05	04-01-2025		cancelled	Airbnb	93	0
+B440	P01	23-01-2025	28-01-2025	cancelled	Airbnb	130	0
+B441	P01	24-01-2025	29-01-2025	completed	Airbnb	144	720
+B442	P05	13-01-2025	15-01-2025	cancelled	Airbnb	150	0
+B443	P01	11-01-2025	13-01-2025	cancelled	Direct	163	0
+B444	P05	05-01-2025	09-01-2025	confirmed	Airbnb	102	408
+B445	P01	22-01-2025	24-01-2025	confirmed	Booking.com	93	186
+B446	P03	26-01-2025	27-01-2025	completed	Direct	117	117
+B447	P02	02-01-2025	03-01-2025	confirmed	Direct	160	160
+B448	P02	18-01-2025	22-01-2025	confirmed	Direct	170	680
+B449	P04	04-01-2025	05-01-2025	completed	Booking.com	160	160
+B450	P02	08-01-2025	10-01-2025	confirmed	Booking.com	137	274
+B451	P02	25-01-2025	30-01-2025	completed	Direct	117	585
+B452	P03	28-01-2025	31-01-2025	cancelled	Direct	93	0
+B453	P02	25-01-2025	28-01-2025	cancelled	Booking.com	136	0
+B454	P01	07-01-2025	09-01-2025	completed	Booking.com	177	354
+B455	P05	02-01-2025	06-01-2025	cancelled	Airbnb	130	0
+B456	P01	17-01-2025	20-01-2025	confirmed	Direct	131	393
+B457	P04	11-01-2025	16-01-2025	confirmed	Airbnb	139	695
+B458	P04	23-01-2025	28-01-2025	cancelled	Airbnb	154	0
+B459	P03	03-01-2025	07-01-2025	completed	Airbnb	165	660
+B460	P04	28-01-2025	02-02-2025	confirmed	Booking.com	168	840
+B461	P02	08-01-2025	10-01-2025	confirmed	Direct	103	206
+B462	P05	28-01-2025	31-01-2025	completed	Booking.com	153	459
+B463	P05	11-01-2025	16-01-2025	cancelled	Direct	176	0
+B464	P01	19-01-2025	22-01-2025	confirmed	Booking.com	136	408
+B465	P03	24-01-2025	25-01-2025	completed	Airbnb	179	179
+B466	P01	16-01-2025	17-01-2025	confirmed	Direct	99	99
+B467	P01	08-01-2025	11-01-2025	confirmed	Airbnb	148	444
+B468	P01	28-01-2025		confirmed	Direct	132	-132
+B469	P02	22-01-2025	26-01-2025	completed	Airbnb	127	508
+B470	P03	26-01-2025		confirmed	Booking.com	158	-158
+B471	P05	19-01-2025	22-01-2025	confirmed	Airbnb	178	534
+B472	P05	12-01-2025	17-01-2025	cancelled	Direct	92	0
+B473	P03	25-01-2025	26-01-2025	completed	Booking.com	106	106
+B474	P03	16-01-2025	21-01-2025	confirmed	Direct	175	875
+B475	P05	24-01-2025	28-01-2025	completed	Airbnb	167	668
+B476	P04	27-01-2025	01-02-2025	completed	Direct	103	515
+B477	P04	21-01-2025	23-01-2025	completed	Airbnb	163	326
+B478	P03	10-01-2025	14-01-2025	confirmed	Direct	108	432
+B479	P05	02-01-2025	06-01-2025	completed	Booking.com	103	412
+B480	P03	01-01-2025		completed	Airbnb	125	-125
+B481	P05	27-01-2025	01-02-2025	cancelled	Airbnb	134	0
+B482	P03	09-01-2025	10-01-2025	completed	Airbnb	125	125
+B483	P04	02-01-2025	03-01-2025	cancelled	Booking.com	152	0
+B484	P04	01-01-2025	03-01-2025	cancelled	Direct	160	0
+B485	P01	26-01-2025	29-01-2025	cancelled	Booking.com	141	0
+B486	P04	24-01-2025	25-01-2025	cancelled	Booking.com	117	0
+B487	P04	18-01-2025	21-01-2025	cancelled	Airbnb	137	0
+B488	P04	12-01-2025	17-01-2025	cancelled	Direct	120	0
+B489	P05	13-01-2025	17-01-2025	completed	Airbnb	172	688
+B490	P01	04-01-2025	09-01-2025	cancelled	Direct	136	0
+B491	P02	04-01-2025	07-01-2025	completed	Booking.com	162	486
+B492	P04	24-01-2025	26-01-2025	cancelled	Direct	131	0
+B493	P02	19-01-2025	23-01-2025	completed	Airbnb	167	668
+B494	P05	18-01-2025	21-01-2025	confirmed	Airbnb	114	342
+B495	P05	28-01-2025	01-02-2025	completed	Booking.com	144	576
+B496	P04	02-01-2025	03-01-2025	cancelled	Airbnb	179	0
+B497	P02	08-01-2025	12-01-2025	cancelled	Direct	176	0
+B498	P04	15-01-2025	20-01-2025	completed	Airbnb	124	620
+B499	P05	20-01-2025	25-01-2025	confirmed	Booking.com	94	470
+B500	P03	26-01-2025	30-01-2025	cancelled	Booking.com	101	0
+B501	P04	17-01-2025	19-01-2025	confirmed	Direct	163	326
+B502	P04	06-01-2025	10-01-2025	completed	Airbnb	171	684
+B503	P02	18-01-2025	21-01-2025	confirmed	Airbnb	111	333
+B504	P01	28-01-2025	29-01-2025	confirmed	Direct	136	136
+B505	P01	12-01-2025	16-01-2025	cancelled	Booking.com	116	0
+B506	P04	18-01-2025	21-01-2025	confirmed	Airbnb	103	309
+B507	P02	08-01-2025	12-01-2025	cancelled	Airbnb	114	0
+B508	P02	16-01-2025	21-01-2025	confirmed	Airbnb	121	605
+B509	P05	06-01-2025	10-01-2025	completed	Airbnb	100	400
+B510	P03	05-01-2025	08-01-2025	cancelled	Direct	136	0
+B511	P01	11-01-2025	16-01-2025	confirmed	Booking.com	111	555
+B512	P02	03-01-2025	08-01-2025	completed	Direct	159	795
+B513	P02	14-01-2025		completed	Booking.com	108	-108
+B514	P01	14-01-2025	19-01-2025	completed	Booking.com	125	625
+B515	P01	26-01-2025	30-01-2025	completed	Airbnb	166	664
+B516	P04	22-01-2025		completed	Booking.com	98	-98
+B517	P05	25-01-2025	30-01-2025	completed	Booking.com	173	865
+B518	P03	03-01-2025	06-01-2025	completed	Booking.com	169	507
+B519	P02	25-01-2025	29-01-2025	cancelled	Booking.com	135	0
+B520	P02	23-01-2025	25-01-2025	completed	Booking.com	180	360
+B521	P04	28-01-2025	31-01-2025	completed	Direct	139	417
+B522	P05	13-01-2025	15-01-2025	cancelled	Booking.com	177	0
+B523	P03	27-01-2025	29-01-2025	confirmed	Booking.com	113	226
+B524	P03	09-01-2025	14-01-2025	completed	Airbnb	139	695
+B525	P05	04-01-2025	09-01-2025	confirmed	Booking.com	119	595
+B526	P04	10-01-2025	14-01-2025	cancelled	Airbnb	133	0
+B527	P01	26-01-2025	27-01-2025	completed	Airbnb	172	172
+B528	P02	24-01-2025	28-01-2025	confirmed	Airbnb	142	568
+B529	P04	04-01-2025	05-01-2025	cancelled	Booking.com	158	0
+B530	P01	14-01-2025	16-01-2025	completed	Direct	97	194
+B531	P05	20-01-2025	23-01-2025	confirmed	Airbnb	159	477
+B532	P02	12-01-2025	17-01-2025	cancelled	Booking.com	103	0
+B533	P05	10-01-2025	15-01-2025	cancelled	Booking.com	152	0
+B534	P02	27-01-2025	30-01-2025	confirmed	Booking.com	179	537
+B535	P03	16-01-2025	19-01-2025	cancelled	Airbnb	133	0
+B536	P05	20-01-2025	22-01-2025	confirmed	Airbnb	101	202
+B537	P05	26-01-2025	28-01-2025	confirmed	Direct	109	218
+B538	P02	22-01-2025	27-01-2025	completed	Booking.com	152	760
+B539	P03	27-01-2025	29-01-2025	confirmed	Direct	164	328
+B540	P05	14-01-2025	19-01-2025	confirmed	Airbnb	110	550
+B541	P04	08-01-2025	09-01-2025	completed	Direct	135	135
+B542	P01	04-01-2025	05-01-2025	cancelled	Airbnb	171	0
+B543	P05	23-01-2025	24-01-2025	confirmed	Direct	126	126
+B544	P05	18-01-2025	22-01-2025	completed	Booking.com	148	592
+B545	P01	09-01-2025		cancelled	Airbnb	164	0
+B546	P04	07-01-2025	10-01-2025	completed	Direct	178	534
+B547	P04	20-01-2025	24-01-2025	confirmed	Booking.com	112	448
+B548	P02	01-01-2025	06-01-2025	completed	Booking.com	96	480
+B549	P03	15-01-2025	20-01-2025	completed	Airbnb	147	735
+B550	P03	23-01-2025		completed	Airbnb	151	-151
