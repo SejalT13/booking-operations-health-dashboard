@@ -1,0 +1,14 @@
+Open	property_id	issuse_type	resolution_time_hours	staus
+12-01-2025	P05	Channel Sync Error	4	Open
+24-01-2025	P02	Missing Checkout Date	2	Resolved
+20-01-2025	P03	Channel Sync Error	6	Resolved
+18-01-2025	P05	Channel Sync Error	6	Open
+28-01-2025	P02	Incorrect City Tag	5	Resolved
+13-01-2025	P02	Duplicate Booking ID	6	Resolved
+03-01-2025	P04	Inactive Listing Live	1	Resolved
+03-01-2025	P01	Incorrect City Tag	1	Resolved
+19-01-2025	P04	Inactive Listing Live	4	Resolved
+16-01-2025	P03	Missing Checkout Date	2	Resolved
+06-01-2025	P03	Channel Sync Error	2	Open
+15-01-2025	P05	Incorrect City Tag	1	Resolved
+14-01-2025	P04	Missing Checkout Date	7	Open
