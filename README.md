@@ -162,7 +162,6 @@ https://lookerstudio.google.com/u/0/reporting/9c478626-3973-4aee-bc2a-1dc5ecd0b9
 ## Dashboard Preview
 
 
-
 Example:
 ![Dashboard Preview](images/Dashboard_Preview.png)
 
